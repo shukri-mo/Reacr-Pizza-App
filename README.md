@@ -42,56 +42,7 @@ src/
 │   └── Error.jsx
 │
 └── App.jsx
-```
 
-## 🔧 Installation & Usage
-
-1. **Clone the repo**
-
-```bash
-git clone https://github.com/yourusername/react-pizza-app.git
-cd react-pizza-app
-```
-
-2. **Install dependencies**
-
-```bash
-npm install
-```
-
-3. **Start the development server**
-
-```bash
-npm run dev
-```
-
-## 🌐 Environment Variables
-
-Create a `.env` file in the root of your project and add any required variables:
-
-```
-VITE_API_URL=https://your-api-url.com
-```
-
-Update and use this as needed for `menuLoader`, `createOrderAction`, etc.
-
-## 📦 Build
-
-```bash
-npm run build
-```
-
-## 🔗 Live Demo
-
-[👉 View Demo](https://your-deployment-link.com)
-
-_Replace the link with your actual deployment (e.g., Vercel, Netlify, GitHub Pages)._
-
-## 📸 Screenshots
-
-![Home Page](screenshots/home.png)
-![Menu Page](screenshots/menu.png)
-![Order Page](screenshots/order.png)
 
 ## 🛡️ License
 
